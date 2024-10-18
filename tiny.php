@@ -3,10 +3,10 @@
 $CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
 
 //TFM version
-define('VERSION', '2.5.3');
+define('VERSION', '');
 
 //Application Title
-define('APP_TITLE', 'Tiny File Manager');
+define('APP_TITLE', '');
 
 // --- EDIT BELOW CONFIGURATION CAREFULLY ---
 
