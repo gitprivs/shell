@@ -1,11 +1,12 @@
-<p align="center">
+
+<p align="left">
  <img src="https://www11.0zz0.com/2014/08/22/21/592562836.png">
 </p>
 
 
- 
-| NAME | DOWNLOAD ( RAW / ZIP ) | PREVIEW IMG of SHELL INDEX |
-| :--- | :-------:| :-----: |
+
+| NAME | DOWNLOAD ( RAW / ZIP ) |
+| :--- | :-------:|
 | 0byt3m1n1 Shell | [0byt3m1n1.php](https://raw.githubusercontent.com/1337r0j4n/webshells/main/SHELLs/0byt3m1n1%20Shell/0byt3m1n1.php) / [zip](https://github.com/1337r0j4n/php-backdoors/raw/main/SHELLs/0byt3m1n1%20Shell/0byt3m1n1.zip) | [screenshot](https://github.com/1337r0j4n/webshells/tree/main/SHELLs/0byt3m1n1%20Shell) |
 | 1337 3YP455 Shell | [1337.php](https://raw.githubusercontent.com/1337r0j4n/webshells/main/SHELLs/1337%203YP455%20Shell/1337.php) / [zip](https://github.com/1337r0j4n/php-backdoors/raw/main/SHELLs/1337%203YP455%20Shell/1337.zip) | [screenshot](https://github.com/1337r0j4n/webshells/tree/main/SHELLs/1337%203YP455%20Shell) |
 | 2018 WSO Shell | [2018wso.php](https://github.com/1337r0j4n/webshells/raw/main/SHELLs/2018%20WSO%20Shell/2018wso.php) / [zip](https://github.com/1337r0j4n/php-backdoors/raw/main/SHELLs/2018%20WSO%20Shell/2018wso.zip) | [screenshot](https://github.com/1337r0j4n/webshells/tree/main/SHELLs/2018%20WSO%20Shell) |
@@ -68,6 +69,7 @@
 | uploader with pass | [uploader.php](https://raw.githubusercontent.com/1337r0j4n/webshells/main/SHELLs/uploader%20with%20pass/uploader.php) / [zip](https://github.com/1337r0j4n/php-backdoors/raw/main/SHELLs/uploader%20with%20pass/uploader.zip) | [screenshot](https://github.com/1337r0j4n/webshells/tree/main/SHELLs/uploader%20with%20pass) |
 | v3n0m WOS Shell | [v3n0m.php](https://raw.githubusercontent.com/1337r0j4n/php-backdoors/main/SHELLs/v3n0m%20WOS%20Shell/v3n0m.php) / [zip](https://github.com/1337r0j4n/php-backdoors/raw/main/SHELLs/v3n0m%20WOS%20Shell/v3n0m.zip) | [screenshot](https://github.com/1337r0j4n/php-backdoors/tree/main/SHELLs/v3n0m%20WOS%20Shell) |
 | xLeet WSO Shell | [xleet.php](https://raw.githubusercontent.com/1337r0j4n/php-backdoors/main/SHELLs/xLeet%20WSO%20Shell/xleet.php) / [zip](https://github.com/1337r0j4n/php-backdoors/raw/main/SHELLs/xLeet%20WSO%20Shell/xleet.zip) | [screenshot](https://github.com/1337r0j4n/php-backdoors/tree/main/SHELLs/xLeet%20WSO%20Shell) |
+
 ### Features 
 - **easy to download** ( raw / zip ? )
 - **preview img of shell index** ( what does the shell look like ? )
